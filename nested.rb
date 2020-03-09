@@ -120,6 +120,9 @@ def changing_alan
  		{
         :grace_hopper => alans_new_info
  		 }
+ 		 
+programmer_hash 
+
 end
 
 def adding_to_dennis
