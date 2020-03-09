@@ -118,7 +118,7 @@ def changing_alan
      
   programmer_hash = 
  		{
-        :grace_hopper => {
+        :alan_kay => {
           :known_for => alans_new_info}
  		 }
  		 
