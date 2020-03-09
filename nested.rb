@@ -118,7 +118,8 @@ def changing_alan
      
   programmer_hash = 
  		{
-        :grace_hopper => alans_new_info
+        :grace_hopper => {
+          :known_for => alans_new_info}
  		 }
  		 
 puts programmer_hash 
