@@ -121,7 +121,7 @@ def changing_alan
         :grace_hopper => alans_new_info
  		 }
  		 
-programmer_hash 
+puts programmer_hash 
 
 end
 
